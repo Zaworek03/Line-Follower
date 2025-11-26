@@ -1,0 +1,24 @@
+Reference§Qty§Value§DNP§Exclude from BOM§Exclude from Board§Footprint§Datasheet
+C1,C4,C9§3§10uF/25V(20%)§§§§Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder§~
+C2,C6,C7,C8§4§0.1uF/50V(10%)§§§§Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder§~
+C3§1§1uF/16V(10%)§§§§Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder§~
+C5§1§10nF§§§§Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder§~
+C10,C11§2§220uF/35V§§§§Capacitor_SMD:CP_Elec_8x6.2§~
+D1§1§RED§§§§LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder§~
+D2,D3,D4,D5,D6,D7,D8,D9§8§D§§§§Diode_SMD:D_SMA§https://www.vishay.com/docs/88751/ss32.pdf
+H1,H2,H3,H4§4§MountingHole§§Wyklucz z BOM§§MountingHole:MountingHole_3.2mm_M3_DIN965§~
+H6,H7,H8,H9§4§MountingHole_Pad§§Wyklucz z BOM§§MountingHole:MountingHole_2.2mm_M2_Pad§~
+J1§1§USB_C_Receptacle_USB2.0_16P§§§§Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV§https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+J4§1§B2B-XH-A§§§§Library:JST_B2B-XH-A§
+R1,R4,R7,R10,R13,R16,R20,R22§8§100R(1%)§§§§Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder§~
+R2,R5,R8,R11,R14,R17,R21,R23§8§5kR(1%)§§§§Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder§~
+R3§1§0R(1%)§§§§Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder§~
+R6,R12§2§10kR(1%)§§§§Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder§~
+R9§1§100kR(1%)§§§§Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder§~
+R15§1§1kR(1%)§§§§Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder§~
+R18,R19§2§5,1kR(1%)§§§§Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder§~
+S1,S2,S3§3§TS04-66-70-BK-260-SMT§§§§Library:SW_TS-1088-AR02016§
+U1,U3,U4,U5,U7,U8,U9,U10§8§TCRT5000L§§§§Library:XDCR_TCRT5000L§
+U2§1§ESP32-S3-WROOM-1§§§§RF_Module:ESP32-S3-WROOM-1U§https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+U6§1§AMS1117-3.3§§§§Package_TO_SOT_SMD:SOT-223-3_TabPin2§http://www.advanced-monolithic.com/pdf/ds1117.pdf
+U11§1§L298N§§§§Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical§http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
